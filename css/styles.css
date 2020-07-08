@@ -1,0 +1,21 @@
+body {
+  background-color: lightblue;
+}
+h1 {
+  color: #00f;
+  text-align: center;
+  font-size: 50px;
+  font-style: oblique;
+  font-family: cursive;
+}
+h2 {
+  color: green;
+  font-style: italic;
+  text-align: center;
+}
+p {
+  font-family: sans-serif;
+}
+ul {
+  line-height: 20px;
+}
